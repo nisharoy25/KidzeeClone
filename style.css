@@ -1,0 +1,375 @@
+nav{
+    background-color: #65318e;
+    padding: 7px;
+    height: 58px;
+}
+
+a{
+    height: 34px;
+}
+
+.btn-style{
+    color: #65318e;
+    font-weight: 500;
+    border-radius: 0 53px 53px;padding: 5px 10px;
+}
+.brand-logo{
+    background-image: url(logo1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 130px;
+    height: 35px;
+    margin: 0 0 0 60px;
+    cursor: pointer;
+}
+.nav2{
+    height: 61px;
+}
+.navcontent{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.menu{
+    color: black;
+    font-size: 14px;
+    padding: 8px;
+    margin-right: 16px;
+}
+.navbar-nav > li > .dropdown-menu { 
+    background-color: #a19bad;
+ }
+.navbar-nav > li > .dropdown-menu a{  
+    color: white; 
+    font-size: 1rem;
+ }
+ .dropdown-item:hover {
+    background-color: #65318e;
+    color: #fff;
+ }
+
+.main-div{
+    height: 415px;
+    background-color: #ebe1ff;
+}
+
+.monkey-content{
+    height: 360px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.monkey-image{
+    height: 360px;
+    margin-right: 70px;
+}
+
+.aboutus-content{
+    height: 340px;
+    margin-top: 30px;
+    padding: 12px;
+}
+.title1{
+    color: #65318e;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.title2{
+    color: #282828;
+    font-size: 1.5rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+.paragraph-content{
+    color: #282828;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 28px;
+    text-align: justify;
+    height: 160px;
+    margin-right: 50px;
+}
+
+.main-div2{
+    height: 1200px;
+    background-color: #ccbde7;
+}
+.title{
+    text-align: center;
+    color: #65318e;
+    font-size: 2.5rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.listDiv{
+    display: flex;
+    padding: 10px 10px 10px 55px;
+    margin-top: 1.5rem;
+}
+.pg-img{
+    height: 150px;
+    width: 150px;
+    margin-right: 3px;
+}
+.listText{
+    width: 100%;
+    padding: 5px 10px 10px;
+}
+.programmeTitle{
+    color: #0e2c53;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+.infoContent{
+    display: flex;
+    width: 50%;
+}
+
+.text1{
+    border-right: 2px solid #90228D;
+    width: 80%;
+    color: #90228d;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.text2{
+    width: 100%;
+    color: #90228d;
+    font-size: 12px;
+    font-style: normal;
+    padding-left: 40px;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: capitalize;
+}
+
+.subPara{
+    overflow: hidden;
+    color: #282828;
+    text-overflow: ellipsis;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+    margin-top: 10px;
+}
+.readMoreBtn{
+    background-color: #65318e;
+    color: #fff;
+    text-align: center;
+    font-size: 11px;
+    font-style: normal;
+    border: none;
+    font-weight: 600;
+    padding: 3px 7px 3px 4px;
+    border-radius: 0 53px 53px 20px;
+    margin-top: 0;
+}
+.box{
+    width: 100%;
+}
+.boy-container{
+    height: 380px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+.boy1-img{
+    height: 380px;
+}
+
+.main-div3{
+    height: 1050px;
+    width: 100%;
+    background-color: #ebe1ff;
+}
+.daycare-content{
+    height: 340px;
+    width: 40%;
+    margin-left: 44px;
+    margin-top: 40px;
+    padding: 12px;
+}
+.paragraph-content1{
+    color: #282828;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 28px;
+    text-align: justify;
+    height: 160px;  
+}
+.girl-image{
+    height: 420px;
+    background-size: cover;
+    margin-right: 70px;
+}
+.girl-content{
+    height: 420px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+}
+.pentamindImg{
+    height: 500px;
+    background-size: cover;
+}
+.mind-img{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-div4{
+    background-color: #ebe1ff;
+    min-height: 754px;
+}
+.preSchoolbgImg_content{
+    position: absolute;
+    width: 100%;
+    display: block;
+}
+.boy2-img{
+    width: 100%;
+    height: 1000px;
+}
+.title-right{
+    float: right;
+    color: #65318e;
+    top: 0;
+    margin: 130px 216px 10px 10px;
+    right: 0;
+    font-size: 2.5rem;
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.paragraph-content2{
+    width: 450px;
+    position: absolute;
+    right: 0;
+    top: 240px;
+    margin: 0 100px 0 0;
+    text-align: justify;
+    color: #282828;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: 28px;
+    text-align: justify;
+    height: 160px;
+}
+
+
+.preeschool-img{
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    bottom: 130px;
+    right: 63px;
+    margin-right: 40px;
+}
+
+.main-div5{
+    height: 800px;
+    background-color: #ebe1ff;
+}
+.childGroup-content{
+    height: 410px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 300px;
+}
+.childGroup-img{
+    width: 400px;
+    height: 410px;
+    float: right;
+    margin-right: 45px;
+    margin-left: 110px;
+}
+.franchise-content{
+    height: 340px;
+    margin-top: 300px;
+    padding: 12px;
+}
+
+.main-div6{
+    height: 550px;
+    background-color: #ccbde7; 
+}
+.faq-content{
+    width: 100%;
+    position: absolute;
+    margin-top: 37px;
+    padding: 0 30px 0 50px;
+}
+.leftfaqs{
+    width: 100%;
+}
+.rightfaqs{
+    width: 100%;
+}
+
+.accordion{
+    --bs-accordion-btn-color: purple;
+    --bs-accordion-btn-bg: #ccbde7;
+    --bs-accordion-btn-focus-border-color: none;
+    --bs-accordion-border-color: #ccbde7; 
+    --bs-accordion-active-bg: #ccbde7;
+    --bs-accordion-active-color: purple;
+}
+.accordion-item{
+    background-color: #ccbde7;
+}
+.accordion-btn{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.main-div7{
+    height: 600px;
+    background-color: #ebe1ff;
+}
+.blog-image{
+    width: 450px;
+    height: 250px;
+    padding: 25px;
+    margin: 10px 15px 0 0;
+}
+.blog-content{
+    height: 158px;
+    width: 400px;
+    padding: 25px 10px;
+    margin-left: 15px;
+}
+.blog-title{
+    color: #65318e;
+    font-weight: 700;
+    font-size: 1rem;
+}
+.blog-para{
+    color: #282828;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 450;
+    text-align: justify;
+} 
